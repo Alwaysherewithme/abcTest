@@ -1,7 +1,7 @@
 {
-  "name": "perform-plus",
+  "name": "abc",
   "version": "1.4.7",
-  "description": "perform-plus",
+  "description": "abc",
   "main": "server/server.js",
   "scripts": {
     "start": "make start",
